@@ -1,0 +1,45 @@
+
+.important-title,
+.text-head{
+	font-family: "Mulish'";
+	font-style: italic;
+	font-size: 35px;
+}
+
+.text.botton{
+	font-family: 'Mulish';
+	color: purple;
+	font-size: 20px;
+}
+
+/* почему не работает? */
+.paragraph .about{
+	font-family: "Montserrat";
+	font-size: 13px;
+	color: yellowgreen;
+}
+
+#main{
+	color: salmon;
+	font-size: 30px;
+	font-weight: 900;
+}
+
+.conteiner > p{
+	color: royalblue;
+}
+
+h2{
+	color: rgb(128, 0, 255);
+	font-family: "larsseit";
+}
+
+.link{
+	color: lawngreen;
+}
+
+h1{
+	font-family: "Roboto";
+	font-weight: 700;
+	color: salmon;
+}
